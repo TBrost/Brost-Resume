@@ -4,7 +4,7 @@ title: Tyson Brost's Resume
 ---
 # Tyson Brost
 
-I'm a Sophmore at BYU-Idaho studying economics, data science, and programming. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management.
+- I'm a Sophmore at BYU-Idaho studying economics, data science, and programming. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management.
 
 I have a passion for analyzing systems and finding new ways to innovate and improve efficiency and effectiveness.
 
@@ -57,23 +57,23 @@ __Reseach and Business Development Center__, Rexburg, ID
 `Sept 2021 - Dec 2021`
 __Hot Cup Factory__, - Business Development Specialist - Rexburg, ID
 
-Worked closely with the company director to aggregate and collect data from across various departments within the company.
+- Worked closely with the company director to aggregate and collect data from across various departments within the company.
 While there I completed three major projects to help the company take advantage of a period of exponetial growth during its first few years;
 
-The first being an ongoing analysis of product demands for roughly 100 unique products with multiple suppliers in various countries within R. I further used a mixture of forecasting techniques to predict growth for the following year by product based on the company's and each product's growth patterns over the past 3 years. I then used these values to predict sales by month for each product within a dynamic google sheets (preffered platform of company) allowing the company director to edit certain assumptions made within the calculations being made.
+- The first being an ongoing analysis of product demands for roughly 100 unique products with multiple suppliers in various countries within R. I further used a mixture of forecasting techniques to predict growth for the following year by product based on the company's and each product's growth patterns over the past 3 years. I then used these values to predict sales by month for each product within a dynamic google sheets (preffered platform of company) allowing the company director to edit certain assumptions made within the calculations being made.
 
-The second was an indepth analysis of the target market, I then created a group of documents and tools for sales reps to utilize when working with customers to further upsale and expose them to new products.
+- The second was an indepth analysis of the target market, I then created a group of documents and tools for sales reps to utilize when working with customers to further upsale and expose them to new products.
 
-The third and final project I completed was an additional dynamic dashboard using a variety of import methods and SQL queries within google sheets to pull company inventory levels and predicted demands for each product from the afor mentioned demand dashboard. This Order Dashboard allow viewing of monthly inventory levels based on current levels, any inbound items (in the process of shipping), as well as selectively estimate and include late products (old orders that haven't been shipped yet), as well as predicted orders and arrivals.
+- The third and final project I completed was an additional dynamic dashboard using a variety of import methods and SQL queries within google sheets to pull company inventory levels and predicted demands for each product from the afor mentioned demand dashboard. This Order Dashboard allow viewing of monthly inventory levels based on current levels, any inbound items (in the process of shipping), as well as selectively estimate and include late products (old orders that haven't been shipped yet), as well as predicted orders and arrivals.
 
 `April 2021 - Current`
 __Brigham Young University-Idaho__, - Mathematics Tutor - Rexburg, ID
 
-Work 1-on-1 with students or groups of students to help tutor and assist them in course work and understanding in a variety of basic and upper-level college mathematics courses including;
-- Algebra
-- Introductory Statistics
-- Intermediate Statistics
-- Economics focused Calculus
+- Work 1-on-1 with students or groups of students to help tutor and assist them in course work and understanding in a variety of basic and upper-level college mathematics courses including;
+- -Algebra
+- -Introductory Statistics
+- -Intermediate Statistics
+- -Economics focused Calculus
 
 
 ### Food Service
