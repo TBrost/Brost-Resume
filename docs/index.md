@@ -3,18 +3,18 @@ layout: cv
 title: Tyson Brost's Resume
 ---
 # Tyson Brost
+
 I'm a Sophmore at BYU-Idaho studying economics, data science, and programming. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management.
 
 I have a passion for analyzing systems and finding new ways to innovate and improve efficiency and effectiveness.
 
-## Links
-- [LinkedIn](https://www.linkedin.com/in/tyson-brost-3604481b8/)
+
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/tyson-brost-3604481b8/">LinkedIn</a>
+| <a href="https://github.com/TBrost">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -56,6 +56,7 @@ __Reseach and Business Development Center__, Rexburg, ID
 
 `Sept 2021 - Dec 2021`
 __Hot Cup Factory__, - Business Development Specialist - Rexburg, ID
+
 Worked closely with the company director to aggregate and collect data from across various departments within the company.
 While there I completed three major projects to help the company take advantage of a period of exponetial growth during its first few years;
 
@@ -67,6 +68,7 @@ The third and final project I completed was an additional dynamic dashboard usin
 
 `April 2021 - Current`
 __Brigham Young University-Idaho__, - Mathematics Tutor - Rexburg, ID
+
 Work 1-on-1 with students or groups of students to help tutor and assist them in course work and understanding in a variety of basic and upper-level college mathematics courses including;
 - Algebra
 - Introductory Statistics
@@ -85,6 +87,7 @@ __The Happy Hut Shaved Ice__, - Owner - Topeka, KS
 
 `May 2020 – August 2020`
 __ALDI__, - Stocking Associate -Topeka, KS
+
 Worked early mornings with a small team and power jacks to stock and prepare the store for consumers as efficiently and effectively as possible
 
 `December 2015 - May 2016`
@@ -97,18 +100,22 @@ __Hazel Hill Chocolates__, - Cashier/Closer - Topeka, KS
 
 `Sept 2020 - April 2021`
 __Sunrise Homes__, - Framer - Rexburg, ID
+
 Performed general framing labor building residential homes in and around Rexburg, ID
 
 `July 2020 - Sept 2020`
 __Top Knot Arborists__, - Arborist - St Louis, Mi
+
 Worked with a small team in St. Louis Missouri trimming, and removing large trees around residential buildings.
 
 `May 2015 - September 2015`
 __Builder Bees LLC__, - General Construction - Topeka, KS
+
 Worked with a crew of ~10 building;
-- Homes
-- Decks
-- and remodeled a large Business retreat complex now used by Advisors Excel.
+-  -Homes
+-  -Decks
+
+Remodeled a large Business retreat complex now used by Advisors Excel.
 
 
 
@@ -119,9 +126,9 @@ Worked with a crew of ~10 building;
 __Service Missionary__, Salt Lake City
 
 Worked primarily with Spanish speaking immigrants; 
-- assisting with schooling, 
-- work opportunities and, 
-- general service.
+-  -assisting with schooling, 
+-  -work opportunities and, 
+-  -general service.
 
 
 
