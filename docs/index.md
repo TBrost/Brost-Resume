@@ -4,7 +4,7 @@ title: Tyson Brost's Resume
 ---
 # Tyson Brost
 
-I'm a Sophmore at BYU-Idaho studying economics, data science, and programming. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management.
+I'm a Sophmore studying economics, data science, and programming at BYU-Idaho. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management.
 
 I have a passion for analyzing systems and finding new ways to innovate and improve efficiency and effectiveness.
 
@@ -22,9 +22,12 @@ I have a passion for analyzing systems and finding new ways to innovate and impr
 ## Education
 `Sept 2020 - Dec 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
-- Bachelor's degree in Economics		
-- Minor in data science
-- 
+- Bachelor's degree:
+    - Economics		
+- Minors: 
+    - Data Science 
+    - Statistics
+    - Spanish
 	
 `2014 - 2018`
 __Washburn Rural High School__,	Topeka, KS
