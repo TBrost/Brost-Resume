@@ -33,7 +33,7 @@ __Washburn Rural High School__,	Topeka, KS
 `Expected 2024-2026`
 __Unknown__, Location, TBD
 
-- Masters in Business analytics|Data Science|Economics
+- Masters in Business analytics - Data Science - Economics
 
 
 ## Related Experience
@@ -137,13 +137,14 @@ Worked primarily with Spanish speaking immigrants;
 -	Fast Learner
 -	Construction; Framing, Decks, Lawn Care/Groundskeeping,Tree trimming/felling
 -	Digital Marketing/Social Media Management
--	Power BI
+-	Power BI / RShiny
 -   Google Sheets/Microsoft Excel
 
 ### CERTIFICATIONS AND LICENSES
 - Drivers License
 - Fundamentals Power BI - Microsoft 
 - Spreadsheet Modeling - Harvard 
+- Bloomberg Market Concepts
 
 
 
