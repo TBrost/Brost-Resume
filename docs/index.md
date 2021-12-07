@@ -70,10 +70,10 @@ While there I completed three major projects to help the company take advantage 
 __Brigham Young University-Idaho__, - Mathematics Tutor - Rexburg, ID
 
 - Work 1-on-1 with students or groups of students to help tutor and assist them in course work and understanding in a variety of basic and upper-level college mathematics courses including;
-- -Algebra
-- -Introductory Statistics
-- -Intermediate Statistics
-- -Economics focused Calculus
+    - Algebra
+    - Introductory Statistics
+    - Intermediate Statistics
+    - Economics focused Calculus
 
 
 ### Food Service
@@ -112,8 +112,8 @@ Worked with a small team in St. Louis Missouri trimming, and removing large tree
 __Builder Bees LLC__, - General Construction - Topeka, KS
 
 Worked with a crew of ~10 building;
--  -Homes
--  -Decks
+    - Homes
+    - Decks
 Remodeled a large Business retreat complex now used by Advisors Excel.
 
 
@@ -125,23 +125,24 @@ Remodeled a large Business retreat complex now used by Advisors Excel.
 __Service Missionary__, Salt Lake City
 
 Worked primarily with Spanish speaking immigrants; 
--  -assisting with schooling, 
--  -work opportunities and, 
--  -general service.
+    - assisting with schooling, 
+    - work opportunities and, 
+    - general service.
 
 
 
 ## SKILLS
--	Bi-lingual (Spanish)
--	Computer Skills; Python, Java, R, MySQL, VMWare
+-   Bi-lingual (Spanish)
+-   Computer Skills; R, Python, MySQL, Java, VMWare
 -	Ingenuity
 -	Honesty
 -	Dedicated Worker
 -	Fast Learner
--	Construction; Framing, Decks, Lawn Care/Groundskeeping,Tree trimming/felling
--	Digital Marketing/Social Media Management
 -	Power BI / RShiny
 -   Google Sheets/Microsoft Excel
+-	Construction; Framing, Decks, Lawn Care/Groundskeeping,Tree trimming/felling
+-	Digital Marketing/Social Media Management
+
 
 ### CERTIFICATIONS AND LICENSES
 - Drivers License
