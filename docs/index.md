@@ -11,7 +11,7 @@ I have a passion for analyzing systems and finding new ways to innovate and impr
 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="tyson.brost@gmail.com">tyson.brost@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/tyson-brost-3604481b8/">LinkedIn</a>
 | <a href="https://tbrost.github.io/Brost-Resume/">GitHub</a>
