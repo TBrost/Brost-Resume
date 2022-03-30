@@ -77,6 +77,8 @@ __Brigham Young University-Idaho__, - Mathematics/Economics Tutor - Rexburg, ID
     - Econometrics
     - Financial Analytics
     - Macro & Micro Economics
+- Built a dynamic searching tool for tutor managers within google sheets that utilizes query functions to import various spreadsheets and allow visualization of what times and days tutors are available by course.
+  
 
 
 ### Food Service
