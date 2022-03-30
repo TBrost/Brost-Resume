@@ -6,7 +6,7 @@ title: Tyson Brost's Resume
 
 I'm a Sophmore studying economics, data science, and programming at BYU-Idaho. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management.
 
-I have a passion for analyzing systems and finding new ways to innovate and improve efficiency and effectiveness.
+I have a passion for analyzing systems and finding new ways to innovate and improve efficiency and effectiveness. My schooling is focused on model interpretion and building, specifically in models currently utilized for the basis of economic theory and policy.
 
 
 
@@ -20,7 +20,7 @@ I have a passion for analyzing systems and finding new ways to innovate and impr
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
-`Sept 2020 - Dec 2023`
+`Sept 2020 - April 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 - Bachelor's degree:
     - Economics		
@@ -33,10 +33,10 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Washburn Rural High School__,	Topeka, KS
 -	3.85 GPA
 
-`Expected 2024-2026`
+`Expected 2025-2027`
 __Unknown__, Location, TBD
 
-- Masters in Business analytics - Data Science - Economics
+- Masters in Data Science / Economics
 
 
 ## Related Experience
@@ -49,15 +49,16 @@ __Reseach and Business Development Center__, Rexburg, ID
 - Worked with a small team to analyze past data and results from previous studies to recreate and improve upon a generalized economic survey and study of Madison county in comparison to Idaho and Eastern Idaho.
 - This was used to help plan and promote specific industries within the area and identify sectors of economic leakages for Madison county Idaho.
 
+`May 2022 - Aug 2022`
+__Advisors Excel__, Topeka, KS
+
+-Specific work role TBD but the focus will be related to data management and vizualization systems.
 
 
 
+### Statistics/Data Science/Quantitative Analysis
 
-
-
-### Statistics/Data Science
-
-`Sept 2021 - Dec 2021`
+`Sept 2021 - Jan 2022`
 __Hot Cup Factory__, - Business Development Specialist - Rexburg, ID
 
 - Worked closely with the company director to aggregate and collect data from across various departments within the company.
@@ -67,13 +68,15 @@ While there I completed three major projects to help the company take advantage 
 - The third and final project I completed was an additional dynamic dashboard using a variety of import methods and SQL queries within google sheets to pull company inventory levels and predicted demands for each product from the afor mentioned demand dashboard. This Order Dashboard allow viewing of monthly inventory levels based on current levels, any inbound items (in the process of shipping), as well as selectively estimate and include late products (old orders that haven't been shipped yet), as well as predicted orders and arrivals.
 
 `April 2021 - Current`
-__Brigham Young University-Idaho__, - Mathematics Tutor - Rexburg, ID
+__Brigham Young University-Idaho__, - Mathematics/Economics Tutor - Rexburg, ID
 
-- Work 1-on-1 with students or groups of students to help tutor and assist them in course work and understanding in a variety of basic and upper-level college mathematics courses including;
+- Work 1-on-1 with students or groups of students to help tutor and assist them in course work and understanding in a variety of introductory and upper-level college courses including;
     - Algebra
-    - Introductory Statistics
-    - Intermediate Statistics
-    - Economics focused Calculus
+    - Introductory & Intermediate Statistics
+    - Economic Statistics and Calculus
+    - Econometrics
+    - Financial Analytics
+    - Macro & Micro Economics
 
 
 ### Food Service
@@ -88,11 +91,11 @@ __The Happy Hut Shaved Ice__, - Owner - Topeka, KS
 `May 2020 – August 2020`
 __ALDI__, - Stocking Associate -Topeka, KS
 
-Worked early mornings with a small team and power jacks to stock and prepare the store for consumers as efficiently and effectively as possible
+Worked early mornings with a small team and power jacks to stock and prepare the store for consumers as efficiently and effectively as possible.
 
 `December 2015 - May 2016`
 __Hazel Hill Chocolates__, - Cashier/Closer - Topeka, KS
-- Engaged customers to take, fulfill, and deliver requests with quality customer service and friendly attitude
+- Engaged customers to take, fulfill, and deliver requests with quality customer service and a friendly attitude
 - Cleaned, organized and stocked inventory, cleaned store, ran/counted register and locked-up.
 
 
@@ -132,14 +135,14 @@ Worked primarily with Spanish speaking immigrants;
 
 
 ## SKILLS
--   Bi-lingual (Spanish)
--   Computer Skills; R, Python, MySQL, Java, VMWare
--	Ingenuity
+-	Bi-lingual (Spanish)
+-   	Coding Languages; R, Python, MySQL, Java, VMWare
+-	Power BI / RShiny
+-   	Google Sheets Query
 -	Honesty
 -	Dedicated Worker
 -	Fast Learner
--	Power BI / RShiny
--   Google Sheets/Microsoft Excel
+-	Ingenuity
 -	Construction; Framing, Decks, Lawn Care/Groundskeeping,Tree trimming/felling
 -	Digital Marketing/Social Media Management
 
