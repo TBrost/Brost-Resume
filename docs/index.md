@@ -49,11 +49,6 @@ __Reseach and Business Development Center__, Rexburg, ID
 - Worked with a small team to analyze past data and results from previous studies to recreate and improve upon a generalized economic survey and study of Madison county in comparison to Idaho and Eastern Idaho.
 - This was used to help plan and promote specific industries within the area and identify sectors of economic leakages for Madison county Idaho.
 
-`May 2022 - Aug 2022`
-__Advisors Excel__, Topeka, KS
-
--Specific work role TBD but the focus will be related to data management and vizualization systems.
-
 
 
 ### Statistics/Data Science/Quantitative Analysis
