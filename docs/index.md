@@ -4,6 +4,7 @@ title: Tyson Brost's Resume
 ---
 # Tyson Brost
 
+
 I'm a Junior studying economics, and data science at BYU-Idaho. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management.
 I have a passion for analyzing systems and finding new ways to innovate in order to improve efficiency and effectiveness. My schooling is focused on model interpretion and building, specifically in multivariate models utilized analysis and application economic theory and policy as well as applied linear regression and econometrics.
 
@@ -54,14 +55,14 @@ Collaborated with a variety of teams and individuals across the marketing and IT
 	- Further wrangled and formatted data within Power-BI to show actionable insights and trends based on individual, comparison and aggregate site data.
 
 `July 2021 - Sep 2021`
-__Reseach and Business Development Center__, Research Analyst, Rexburg, ID
+__Reseach and Business Development Center__, - Research Analyst, Rexburg, ID
 
 - Worked with a small team to analyze past data and results from previous studies to recreate and improve upon a generalized economic survey and study of Madison county in comparison to Idaho and Eastern Idaho..
 - This was used to help plan and promote specific industries within the area and identify sectors of economic leakages for Madison county Idaho.
 
 
 
-### Statistics/Data Science/Quantitative Analysis
+### Statistics / Data Science / Quantitative Analysis
 
 `Sep 2022 - Present`
 __Brigham Young University - Idaho__, - Research Assistant, Rexburg, ID
@@ -97,19 +98,19 @@ __Brigham Young University-Idaho__, - Mathematics/Economics Tutor - Rexburg, ID
 ### Food Service
 
 `March 2016 - August 2020`
-__The Happy Hut Shaved Ice__, - Owner - Topeka, KS
+__The Happy Hut Shaved Ice__, - Owner, Topeka, KS
 - Trained, managed, and coached new and existing employees in various positions
 - Created work schedules, menu creation, inventory management, and other operational duties
 - Analyzed marketing strategies, managed social media accounts, and created sales promotions
 - Grew sales by ~20% annually for over a period of four years, leading to a gross revenue of over 35k in 2020
 
 `May 2020 – August 2020`
-__ALDI__, - Stocking Associate -Topeka, KS
+__ALDI__, - Stocking Associate, Topeka, KS
 
 Worked early mornings with a small team and power jacks to stock and prepare the store for consumers as efficiently and effectively as possible.
 
 `December 2015 - May 2016`
-__Hazel Hill Chocolates__, - Cashier/Closer - Topeka, KS
+__Hazel Hill Chocolates__, - Cashier/Closer, Topeka, KS
 - Engaged customers to take, fulfill, and deliver requests with quality customer service and a friendly attitude
 - Cleaned, organized and stocked inventory, cleaned store, ran/counted register and locked-up.
 
@@ -117,17 +118,17 @@ __Hazel Hill Chocolates__, - Cashier/Closer - Topeka, KS
 ### Construction
 
 `Sept 2020 - April 2021`
-__Sunrise Homes__, - Framer - Rexburg, ID
+__Sunrise Homes__, - Framer, Rexburg, ID
 
 Performed general framing labor building residential homes in and around Rexburg, ID
 
 `July 2020 - Sept 2020`
-__Top Knot Arborists__, - Arborist - St Louis, Mi
+__Top Knot Arborists__, - Arborist, St Louis, Mi
 
 Worked with a small team in St. Louis Missouri trimming, and removing large trees around residential buildings.
 
 `May 2015 - September 2015`
-__Builder Bees LLC__, - General Construction - Topeka, KS
+__Builder Bees LLC__, - General Construction, Topeka, KS
 
 Worked with a crew of ~10 building;
     - Homes
