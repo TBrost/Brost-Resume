@@ -4,9 +4,8 @@ title: Tyson Brost's Resume
 ---
 # Tyson Brost
 
-I'm a Sophmore studying economics, data science, and programming at BYU-Idaho. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management.
-
-I have a passion for analyzing systems and finding new ways to innovate and improve efficiency and effectiveness. My schooling is focused on model interpretion and building, specifically in models currently utilized for the basis of economic theory and policy.
+I'm a Junior studying economics, and data science at BYU-Idaho. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management.
+I have a passion for analyzing systems and finding new ways to innovate in order to improve efficiency and effectiveness. My schooling is focused on model interpretion and building, specifically in multivariate models utilized analysis and application economic theory and policy as well as applied linear regression and econometrics.
 
 
 
@@ -20,8 +19,9 @@ I have a passion for analyzing systems and finding new ways to innovate and impr
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
-`Sept 2020 - April 2024`
+`Sept 2020 - Dec 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
+-	3.87 GPA
 - Bachelor's degree:
     - Economics		
 - Minors: 
@@ -31,10 +31,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 	
 `2014 - 2018`
 __Washburn Rural High School__,	Topeka, KS
--	3.85 GPA
 
 `Expected 2025-2027`
-__Unknown__, Location, TBD
+__Unknown__, Location TBD
 
 - Masters in Data Science / Economics
 
@@ -43,15 +42,33 @@ __Unknown__, Location, TBD
 
 ### Internships
 
-`July 2021 - Sep 2021`
-__Reseach and Business Development Center__, Rexburg, ID
+`April 2022 - Aug 2022`
+__Advisors Excel__, Marketing Operations Intern, Topeka, KS
+Collaborated with a variety of teams and individuals across the marketing and IT departments on various projects providing data and process insights and implementation strategies.
+- Advised on future growth solutions as part of a Data Analytics and Management research team. 
+	- Evaluated multiple 3rd party SaaS and PaaS providers in addition to the capacity of internal development possibilites.
+	- Met with and analyzed data situations and needs of each division of the marketing department
+	- Aggregated and compared findings from interviews and pitches with companies and their abilites to meet the specific needs of each division at Advisors Excel (AE).
+- Provided Power-BI dashboards for website data analytics allowing for first time views of aggregate and comparison level data across websites.
+	- Researched and developed R-scripts to effeciently call and aggregate website traffic and interaction data using google analytics API's for the 1800+ individual websites managed by AE.
+	- Further wrangled and formatted data within Power-BI to show actionable insights and trends based on individual, comparison and aggregate site data.
 
-- Worked with a small team to analyze past data and results from previous studies to recreate and improve upon a generalized economic survey and study of Madison county in comparison to Idaho and Eastern Idaho.
+`July 2021 - Sep 2021`
+__Reseach and Business Development Center__, Research Analyst, Rexburg, ID
+
+- Worked with a small team to analyze past data and results from previous studies to recreate and improve upon a generalized economic survey and study of Madison county in comparison to Idaho and Eastern Idaho..
 - This was used to help plan and promote specific industries within the area and identify sectors of economic leakages for Madison county Idaho.
 
 
 
 ### Statistics/Data Science/Quantitative Analysis
+
+`Sep 2022 - Present`
+__Brigham Young University - Idaho__, - Research Assistant, Rexburg, ID
+Primary research assistant to Economics professor until graduation.
+- Working with professor to collect educational data through Canvas software API's
+- As data is collected we will begin using it to emperically analyse the effectiveness of various teaching methods and strategies in efforts to improve learning and teaching effeciency at various conceptual levels for students.
+
 
 `Sept 2021 - Jan 2022`
 __Hot Cup Factory__, - Business Development Specialist - Rexburg, ID
@@ -73,6 +90,7 @@ __Brigham Young University-Idaho__, - Mathematics/Economics Tutor - Rexburg, ID
     - Financial Analytics
     - Macro & Micro Economics
 - Built a dynamic searching tool for tutor managers within google sheets that utilizes query functions to import various spreadsheets and allow visualization of what times and days tutors are available by course.
+- Collaborated with other students to build google apps scripts to automate many tradionally manual tasks saving managers ~10 hours a week from time spent writing repetetive emails/texts.
   
 
 
@@ -133,7 +151,7 @@ Worked primarily with Spanish speaking immigrants;
 
 ## SKILLS
 -	Bi-lingual (Spanish)
--   	Coding Languages; R, Python, MySQL, Java, VMWare
+-   	Coding Languages; R, Python, MySQL, Java
 -	Power BI / RShiny
 -   	Google Sheets Query
 -	Honesty
