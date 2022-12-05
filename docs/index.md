@@ -5,14 +5,13 @@ title: Tyson Brost's Resume
 # Tyson Brost
 
 
-I'm a Junior studying economics, and data science at BYU-Idaho. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management.
-I have a passion for analyzing systems and finding new ways to innovate in order to improve efficiency and effectiveness. My schooling is focused on model interpretion and building, specifically in multivariate models utilized analysis and application economic theory and policy as well as applied linear regression and econometrics.
+I'm a Junior studying economics, and data science at BYU-Idaho. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management. I have a passion for analyzing systems and finding new ways to innovate in order to improve efficiency and effectiveness. My schooling is focused on model interpretation and building, specifically in multivariate models, utilizing analysis and application of economic theory/policy as well as applied linear regression and econometrics.
 
 
 
 <div id="webaddress">
 <a href="tyson.brost@gmail.com">tyson.brost@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<!--| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>  -->
 | <a href="https://www.linkedin.com/in/tyson-brost-3604481b8/">LinkedIn</a>
 | <a href="https://tbrost.github.io/Brost-Resume/">GitHub</a>
 </div>
@@ -45,19 +44,19 @@ __Unknown__, Location TBD
 
 `April 2022 - Aug 2022`
 __Advisors Excel__, Marketing Operations Intern, Topeka, KS
-Collaborated with a variety of teams and individuals across the marketing and IT departments on various projects providing data and process insights and implementation strategies.
-- Advised on future growth solutions as part of a Data Analytics and Management research team. 
-	- Evaluated multiple 3rd party SaaS and PaaS providers in addition to the capacity of internal development possibilites.
+Collaborated with a variety of teams and individuals across the marketing and IT departments on projects providing data and process insights and implementation strategies.
+- Advised on future growth solutions as part of a Data Analytics and Management research team. This culminated in an eventual contract with one of the evaluated vendors. 
+	- Developed qualitative process to evaluate multiple costs and benefits of 3rd party SaaS and PaaS providers vs. internal development.
 	- Met with and analyzed data situations and needs of each division of the marketing department
-	- Aggregated and compared findings from interviews and pitches with companies and their abilites to meet the specific needs of each division at Advisors Excel (AE).
-- Provided Power-BI dashboards for website data analytics allowing for first time views of aggregate and comparison level data across websites.
-	- Researched and developed R-scripts to effeciently call and aggregate website traffic and interaction data using google analytics API's for the 1800+ individual websites managed by AE.
-	- Further wrangled and formatted data within Power-BI to show actionable insights and trends based on individual, comparison and aggregate site data.
+	- Aggregated and compared findings from interviews and pitches with companies and their abilities to meet the specific needs of each division at Advisors Excel (AE).
+- Built Power-BI dashboards for website data analytics, creating an unprecedented view of aggregate and comparison level data across websites allowing for actionable analysis for the development team.
+	- Researched and developed R-scripts to efficiently call and aggregate website traffic and interaction data using google analytics API's for the 1800+ individual websites managed by AE.
+	- Wrangled and formatted data within Power-BI to show actionable insights and trends based on individual, comparison, and aggregate site data.
 
 `July 2021 - Sep 2021`
 __Reseach and Business Development Center__, - Research Analyst, Rexburg, ID
 
-- Worked with a small team to analyze past data and results from previous studies to recreate and improve upon a generalized economic survey and study of Madison county in comparison to Idaho and Eastern Idaho..
+- Worked with a small team to analyze past data and results from previous studies to recreate and improve upon a generalized economic survey and study of Madison county in comparison to Idaho and Eastern Idaho.
 - This was used to help plan and promote specific industries within the area and identify sectors of economic leakages for Madison county Idaho.
 
 
@@ -67,18 +66,18 @@ __Reseach and Business Development Center__, - Research Analyst, Rexburg, ID
 `Sep 2022 - Present`
 __Brigham Young University - Idaho__, - Research Assistant, Rexburg, ID
 Primary research assistant to Economics professor until graduation.
-- Working with professor to collect educational data through Canvas software API's
-- As data is collected we will begin using it to emperically analyse the effectiveness of various teaching methods and strategies in efforts to improve learning and teaching effeciency at various conceptual levels for students.
+- Working with professors to collect educational data through Canvas software API's
+- As data is collected we will begin using it to empirically analyze the effectiveness of various teaching methods and strategies in efforts to improve learning and teaching efficiency at various conceptual levels for students.
 
 
 `Sept 2021 - Jan 2022`
 __Hot Cup Factory__, - Business Development Specialist - Rexburg, ID
 
-- Worked closely with the company director to aggregate and collect data from across various departments within the company.
-While there I completed three major projects to help the company take advantage of a period of exponetial growth during its first few years;
-- The first being an ongoing analysis of product demands for roughly 100 unique products with multiple suppliers in various countries within R. I further used a mixture of forecasting techniques to predict growth for the following year by product based on the company's and each product's growth patterns over the past 3 years. I then used these values to predict sales by month for each product within a dynamic google sheets (preffered platform of company) allowing the company director to edit certain assumptions made within the calculations being made.
-- The second was an indepth analysis of the target market, I then created a group of documents and tools for sales reps to utilize when working with customers to further upsale and expose them to new products.
-- The third and final project I completed was an additional dynamic dashboard using a variety of import methods and SQL queries within google sheets to pull company inventory levels and predicted demands for each product from the afor mentioned demand dashboard. This Order Dashboard allow viewing of monthly inventory levels based on current levels, any inbound items (in the process of shipping), as well as selectively estimate and include late products (old orders that haven't been shipped yet), as well as predicted orders and arrivals.
+- Worked closely with the company director to aggregate and collect data from across various departments within the company. While there I completed three major projects to help the company take advantage of a period of exponential growth during its first few years;
+- Ongoing analysis of product demands for roughly 100 unique products with multiple suppliers in various countries within R. I further used a mixture of forecasting techniques to predict growth for the following year by product based on the company's and each product's growth patterns over the past 3 years. I then used these values to predict sales by month for each product within a dynamic google sheets (preffered platform of company) allowing the company director to edit certain assumptions made within the calculations being made.
+- In-depth analysis of the target market, I then created a group of documents and tools for sales reps to utilize when working with customers to further upsell and expose them to new products.
+- Creation of an additional dynamic dashboard using a variety of import methods and SQL queries within google sheets to pull company inventory levels and predicted demands for each product from the aforementioned demand dashboard. This Order Dashboard allows viewing of monthly inventory levels based on current levels, any inbound items (in the process of shipping), as well as selectively estimate and include late products (old orders that haven't been shipped yet), as well as predicted orders and arrivals.
+
 
 `April 2021 - Current`
 __Brigham Young University-Idaho__, - Mathematics/Economics Tutor - Rexburg, ID
@@ -91,7 +90,7 @@ __Brigham Young University-Idaho__, - Mathematics/Economics Tutor - Rexburg, ID
     - Financial Analytics
     - Macro & Micro Economics
 - Built a dynamic searching tool for tutor managers within google sheets that utilizes query functions to import various spreadsheets and allow visualization of what times and days tutors are available by course.
-- Collaborated with other students to build google apps scripts to automate many tradionally manual tasks saving managers ~10 hours a week from time spent writing repetetive emails/texts.
+- Collaborated with other students to build google app scripts to automate many traditionally manual tasks saving managers ~10 hours a week from time spent writing repetitive emails/texts.
   
 
 
@@ -102,7 +101,7 @@ __The Happy Hut Shaved Ice__, - Owner, Topeka, KS
 - Trained, managed, and coached new and existing employees in various positions
 - Created work schedules, menu creation, inventory management, and other operational duties
 - Analyzed marketing strategies, managed social media accounts, and created sales promotions
-- Grew sales by ~20% annually for over a period of four years, leading to a gross revenue of over 35k in 2020
+- Grew sales by ~20% annually for over a period of four years, leading to gross revenue of over 35k in 2020
 
 `May 2020 – August 2020`
 __ALDI__, - Stocking Associate, Topeka, KS
