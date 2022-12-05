@@ -129,11 +129,7 @@ Worked with a small team in St. Louis Missouri trimming, and removing large tree
 `May 2015 - September 2015`
 __Builder Bees LLC__, - General Construction, Topeka, KS
 
-Worked with a crew of ~10 building;
-
-    - Homes
-    - Decks
-    
+Worked with a crew of ~10 building residential homes and decks.
 Remodeled a large Business retreat complex now used by Advisors Excel.
 
 
@@ -146,9 +142,9 @@ __Service Missionary__, Salt Lake City
 
 Worked primarily with Spanish speaking immigrants; 
     
-- assisting with schooling, 
-- work opportunities and, 
-- general service.
+- Assisting with schooling 
+- Work opportunities
+- General service
 
 
 
