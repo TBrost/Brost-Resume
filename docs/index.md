@@ -4,6 +4,7 @@ title: Tyson Brost's Resume
 ---
 # Tyson Brost
 
+## Intro
 
 I'm a Junior studying economics, and data science at BYU-Idaho. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management. I have a passion for analyzing systems and finding new ways to innovate in order to improve efficiency and effectiveness. My schooling is focused on model interpretation and building, specifically in multivariate models, utilizing analysis and application of economic theory/policy as well as applied linear regression and econometrics.
 
