@@ -13,7 +13,7 @@ I'm a Junior studying economics, and data science at BYU-Idaho. Former small bus
 <a href="tyson.brost@gmail.com">tyson.brost@gmail.com</a>
 <!--| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>  -->
 | <a href="https://www.linkedin.com/in/tyson-brost-3604481b8/">LinkedIn</a>
-| <a href="https://tbrost.github.io/Brost-Resume/">GitHub</a>
+| <a href="https://tbrost.github.io/Brost-Resume/">Link to Full Resume</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
