@@ -54,7 +54,7 @@ Collaborated with a variety of teams and individuals across the marketing and IT
 	- Wrangled and formatted data within Power-BI to show actionable insights and trends based on individual, comparison, and aggregate site data.
 
 `July 2021 - Sep 2021`
-__Reseach and Business Development Center__, - Research Analyst, Rexburg, ID
+__Research and Business Development Center__, - Research Analyst, Rexburg, ID
 
 - Worked with a small team to analyze past data and results from previous studies to recreate and improve upon a generalized economic survey and study of Madison county in comparison to Idaho and Eastern Idaho.
 - This was used to help plan and promote specific industries within the area and identify sectors of economic leakages for Madison county Idaho.
